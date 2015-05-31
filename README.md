@@ -1,3 +1,5 @@
+This plugin has moved, [https://github.com/avantassel/mailhops-plugin](https://github.com/avantassel/mailhops-plugin)
+
 # MailHops Postbox Plugin
 [www.MailHops.com](http://www.mailhops.com)
 
